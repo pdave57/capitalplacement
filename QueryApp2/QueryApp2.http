@@ -1,0 +1,6 @@
+@QueryApp2_HostAddress = http://localhost:5266
+
+GET {{QueryApp2_HostAddress}}/queryapp/
+Accept: application/json
+
+###
